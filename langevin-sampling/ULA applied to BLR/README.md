@@ -18,7 +18,7 @@ The theoretical analysis, convergence guarantees, and complexity results underly
 
 > Marelys Crespo Navas, *Stochastic algorithms for Bayesian estimation and Diffusion processes*, PhD Thesis, Université Toulouse III Paul Sabatier, 2024.
 
-### Related Prerint
+### Related Preprint
 > M. Crespo
 > *Discretisation of Langevin diffusion in the weak log-concave case*,
 
