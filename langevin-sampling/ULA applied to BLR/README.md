@@ -20,7 +20,7 @@ The theoretical analysis, convergence guarantees, and complexity results underly
 
 ### Related Preprint
 > M. Crespo
-> *Discretisation of Langevin diffusion in the weak log-concave case*,
+> *Discretisation of Langevin diffusion in the weak log-concave case*. Preprint. 2024
 
 ## References
 
