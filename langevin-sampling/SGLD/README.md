@@ -1,8 +1,8 @@
-# Stochastic Gradient Langevin Dynamics (SGLD) applied to Bayesian Logistic Regression (BLR)
+# Stochastic Gradient Langevin Dynamics (SGLD)
 
-This project contains Jupyter notebooks illustrating the application of the SGLD to Bayesian logistic regression.
+This project contains Jupyter notebooks illustrating the application of the SGLD.
 
-The notebooks focus on the implementation and numerical evaluation of SGLD for posterior sampling and parameter estimation using real-world datasets. They provide reproducible examples of Bayesian inference based on this Langevin dynamics.
+The notebooks focus on the implementation and numerical evaluation of SGLD for posterior sampling and parameter estimation using real-world datasets. They provide reproducible examples.
 
 ## Contents
 
